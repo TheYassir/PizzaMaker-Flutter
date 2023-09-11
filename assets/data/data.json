@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "category": "pate",
+    "name": "Pâte fine",
+    "image": "assets/data/img/ingredients/pate-fine.jpg"
+  },
+  {
+    "id": 2,
+    "category": "pate",
+    "name": "Pâte épaisse",
+    "image": "assets/data/img/ingredients/pate-epaisse.jpg"
+  },
+  {
+    "id": 3,
+    "category": "base",
+    "name": "Tomate",
+    "image": "assets/data/img/ingredients/base-tomate.jpg"
+  },
+  {
+    "id": 4,
+    "category": "base",
+    "name": "Crème",
+    "image": "assets/data/img/ingredients/base-creme.jpg"
+  },
+  {
+    "id": 5,
+    "category": "viande",
+    "name": "Jambon",
+    "image": "assets/data/img/ingredients/viande-jambon.jpg"
+  },
+  {
+    "id": 6,
+    "category": "viande",
+    "name": "Poulet",
+    "image": "assets/data/img/ingredients/viande-poulet.jpg"
+  },
+  {
+    "id": 7,
+    "category": "viande",
+    "name": "Chorizo",
+    "image": "assets/data/img/ingredients/viande-chorizo.jpg"
+  },
+  {
+    "id": 8,
+    "category": "viande",
+    "name": "Anchois",
+    "image": "assets/data/img/ingredients/viande-anchois.jpg"
+  },
+  {
+    "id": 9,
+    "category": "viande",
+    "name": "Oeuf",
+    "image": "assets/data/img/ingredients/viande-oeuf.jpg"
+  },
+  {
+    "id": 10,
+    "category": "legume",
+    "name": "Olive",
+    "image": "assets/data/img/ingredients/legume-olive.jpg"
+  },
+  {
+    "id": 11,
+    "category": "legume",
+    "name": "Poivron",
+    "image": "assets/data/img/ingredients/legume-poivron.jpg"
+  },
+  {
+    "id": 12,
+    "category": "legume",
+    "name": "Oignon",
+    "image": "assets/data/img/ingredients/legume-oignon.jpg"
+  },
+  {
+    "id": 13,
+    "category": "legume",
+    "name": "Ail",
+    "image": "assets/data/img/ingredients/legume-ail.jpg"
+  },
+  {
+    "id": 14,
+    "category": "legume",
+    "name": "Piment",
+    "image": "assets/data/img/ingredients/legume-piment.jpg"
+  },
+  {
+    "id": 33,
+    "category": "legume",
+    "name": "Champignon",
+    "image": "assets/data/img/ingredients/legume-champignon.jpg"
+  },
+  {
+    "id": 15,
+    "category": "fromage",
+    "name": "Emmental",
+    "image": "assets/data/img/ingredients/fromage-emmental.jpg"
+  },
+  {
+    "id": 16,
+    "category": "fromage",
+    "name": "Mozzarella",
+    "image": "assets/data/img/ingredients/fromage-mozzarella.jpg"
+  },
+  {
+    "id": 17,
+    "category": "fromage",
+    "name": "Cheddar",
+    "image": "assets/data/img/ingredients/fromage-cheddar.jpg"
+  },
+  {
+    "id": 18,
+    "category": "fromage",
+    "name": "Parmesan",
+    "image": "assets/data/img/ingredients/fromage-parmesan.jpg"
+  },
+  {
+    "id": 19,
+    "category": "fromage",
+    "name": "Roquefort",
+    "image": "assets/data/img/ingredients/fromage-roquefort.jpg"
+  },
+  {
+    "id": 20,
+    "category": "herbe",
+    "name": "Basilic",
+    "image": "assets/data/img/ingredients/herbe-basilic.jpg"
+  },
+  {
+    "id": 21,
+    "category": "herbe",
+    "name": "Ciboulette",
+    "image": "assets/data/img/ingredients/herbe-ciboulette.jpg"
+  },
+  {
+    "id": 22,
+    "category": "herbe",
+    "name": "Persil",
+    "image": "assets/data/img/ingredients/herbe-persil.jpg"
+  },
+  {
+    "id": 23,
+    "category": "herbe",
+    "name": "Menthe",
+    "image": "assets/data/img/ingredients/herbe-menthe.png"
+  },
+  {
+    "id": 24,
+    "category": "sauce",
+    "name": "Barbecue",
+    "image": "assets/data/img/ingredients/sauce-barbecue.jpg"
+  },
+  {
+    "id": 25,
+    "category": "sauce",
+    "name": "Tomate",
+    "image": "assets/data/img/ingredients/sauce-tomate.jpg"
+  },
+  {
+    "id": 26,
+    "category": "sauce",
+    "name": "Blanche",
+    "image": "assets/data/img/ingredients/sauce-blanche.jpg"
+  },
+  {
+    "id": 27,
+    "category": "fruit",
+    "name": "Ananas",
+    "image": "assets/data/img/ingredients/fruit-ananas.jpg"
+  },
+  {
+    "id": 28,
+    "category": "fruit",
+    "name": "Mangue",
+    "image": "assets/data/img/ingredients/fruit-mangue.jpg"
+  },
+  {
+    "id": 29,
+    "category": "fruit",
+    "name": "Pèche",
+    "image": "assets/data/img/ingredients/fruit-peche.jpg"
+  },
+  {
+    "id": 30,
+    "category": "fruit",
+    "name": "Banane",
+    "image": "assets/data/img/ingredients/fruit-banane.jpg"
+  },
+  {
+    "id": 31,
+    "category": "fruit",
+    "name": "Fraise",
+    "image": "assets/data/img/ingredients/fruit-fraise.jpg"
+  },
+  {
+    "id": 32,
+    "category": "fruit",
+    "name": "Miel",
+    "image": "assets/data/img/ingredients/fruit-miel.jpg"
+  }
+]
